@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Dominik
+ *
+ */
+module Ducan {
+}
